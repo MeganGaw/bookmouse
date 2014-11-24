@@ -66,6 +66,9 @@ img {
     padding: 0;
     
 }
+.left {
+    text-align: left;
+}
 
 h1 {
     color: black;
