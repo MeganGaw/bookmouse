@@ -105,7 +105,6 @@ h1 {
     background-color: rgba(230,230,230,0.3);
     width: 100%;
     position: absolute;
-    margin-top: 20%;
     z-index: 2;
     color: black;
     
@@ -269,7 +268,7 @@ li {
     text-decoration: none;
     list-style-type: none;
 }
-@media only screen and (min-width:25em) {
+@media only screen and (min-width:20em) {
     
     .nav {
         
@@ -286,7 +285,9 @@ li {
         content: " ·";
     }
  
-        
+    .header {
+         margin-top: 17%;
+    }
     
         
         
@@ -318,7 +319,9 @@ li {
         width: 100%;
     }
     
-    
+    .header {
+        margin-top: 30%;
+    }
 }
 
   
