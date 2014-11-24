@@ -10,13 +10,15 @@ fieldset, pre, table {
 }
 
 .yotta {
-  font-size: 2.2807rem;
+  font-size: 4rem;
   line-height: 1.3154;
+  font-family: 'Lobster', cursive;
 }
 
 .zetta {
   font-size: 2.0273rem;
   line-height: 1.4798;
+  
 }
 
 h1, .exa {

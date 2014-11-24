@@ -92,7 +92,7 @@
 }
 
 .unit-s-1 {
-  display: block;
+  display: inline-block;
   visibility: visible;
   width: 100%;
 }
