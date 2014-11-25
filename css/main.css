@@ -58,7 +58,7 @@ img {
     }
 
 .colour3 {
-    background-color: grey;
+    background-color: black;
     }
 .nav {
     list-style-type: none;
@@ -67,12 +67,6 @@ img {
     
 }
 
-.features {
-    width: 50%;
-    align-content: center;
-    display: block;
-    
-}
     
 }
 }
@@ -305,7 +299,8 @@ li {
     }
     
     .copyright {
-        text-align: left;
+        text-align: center;
+        color: white;
     }
     
     .logo {

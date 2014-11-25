@@ -46,9 +46,10 @@
 }
 
 .unit-xs-1 {
-  display: block;
+  display: inline-block;
   visibility: visible;
-  width: 100%;
+  vertical-align: middle;
+   
 }
 
 .unit-offset-xs-0 {
@@ -140,7 +141,7 @@
 }
 
 .unit-m-1 {
-  display: block;
+  display: inline-block;
   visibility: visible;
   width: 100%;
 }
