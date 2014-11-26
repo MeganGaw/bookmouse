@@ -271,8 +271,14 @@ li {
 
 .icon {
     width: 10%;
+    float: right;
+    margin-right:.5em;
 }
-.
+
+.features {
+    margin: .5em;
+}
+
 @media only screen and (min-width:20em) {
     
     .nav {
