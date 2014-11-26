@@ -47,6 +47,10 @@ img {
   width: 100%;
 }
 
+.white {
+    color: white;
+}
+
 .color {
     background-color: black;
     padding: .20em;
@@ -54,7 +58,7 @@ img {
 }
 
  .colour2 {
-    background-color: #fff;
+    background-color: #99FF88;
     }
 
 .colour3 {
@@ -66,10 +70,9 @@ img {
     padding: 0;
     
 }
-
-    
-}
-}
+ .center {
+     text-align: center;
+ }
 
 h1 {
     color: black;
