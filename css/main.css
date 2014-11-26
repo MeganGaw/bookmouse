@@ -47,10 +47,6 @@ img {
   width: 100%;
 }
 
-.white {
-    color: white;
-}
-
 .color {
     background-color: black;
     padding: .20em;
@@ -288,6 +284,9 @@ li {
 }
 
 @media only screen and (min-width:20em) {
+    .icon {
+        width: 15%;
+    }
     
     .nav {
         
