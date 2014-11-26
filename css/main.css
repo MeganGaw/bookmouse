@@ -54,7 +54,10 @@ img {
 }
 
  .colour2 {
-    background-color: #99FF88;
+    background-color: #FF9933;
+     color: white;
+     font-size: 1.25rem;
+     font-family: sans-serif;
     }
 
 .colour3 {
@@ -132,8 +135,9 @@ h2 {
 .nav a:link,
 .nav a:visited {
     display: inline-block;
-    color: #0099FF;
+    color: #CC3366;
     text-decoration: none;
+    font-weight: 600;
     
 }
 
@@ -143,8 +147,9 @@ h2 {
 .nav .nav-current,
 .nav .nav-current:link,
 .nav .nav-current:visited {
-    background-color: white;
-    color: black;
+    background-color: #CC3366;
+    color: white;
+    padding: .5rem;
 }
 .features {
     padding: .5rem;

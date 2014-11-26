@@ -10,15 +10,19 @@ fieldset, pre, table {
 }
 
 .yotta {
-  font-size: 4rem;
+  font-size: 5rem;
   line-height: 1.3154;
   font-family: 'Lobster', cursive;
 }
-
+.yotta2 {
+  font-size: 4.5rem;
+  line-height: 1.3154;
+   font-family: 'Ubuntu', sans-serif;
+}
 .zetta {
   font-size:3rem;
   line-height: 1.4798;
-  font-family: 'Ubuntu', sans-serif;
+ 
   
 }
 
