@@ -49,7 +49,6 @@
   display: inline-block;
   visibility: visible;
   vertical-align: middle;
-  align-content: center;
    
 }
 
@@ -94,7 +93,7 @@
 }
 
 .unit-s-1 {
-  display: inline-block;
+  display: block;
   visibility: visible;
   width: 100%;
 }
@@ -160,7 +159,7 @@
 }
 
 .unit-m-1-3 {
-  width: 33.3333%;
+  width: 33.333%;
 }
 
 .unit-offset-m-1-3 {

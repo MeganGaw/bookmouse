@@ -101,6 +101,7 @@ h1 {
     position: absolute;
     z-index: 2;
     color: black;
+    margin-top: 25%;
     
 }
 h2 {
@@ -262,6 +263,16 @@ li {
     text-decoration: none;
     list-style-type: none;
 }
+
+
+.padding {
+        margin-left: .5rem;
+    }
+
+.icon {
+    width: 10%;
+}
+.
 @media only screen and (min-width:20em) {
     
     .nav {
@@ -283,7 +294,18 @@ li {
          margin-top: 17%;
     }
     
-        
+    .grid {
+        align-content: center;
+    }
+    
+    .small img {
+        width: 75%;
+    }
+      
+    .header {
+        font-size: .50rem;
+    }
+    
         
 
 }
@@ -316,6 +338,10 @@ li {
     
     .header {
         margin-top: 30%;
+    }
+    
+    .small img {
+        width: 100%;
     }
 }
 
