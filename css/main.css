@@ -106,7 +106,25 @@ h1 {
     z-index: 2;
     color: black;
     margin-top: 25%;
+    padding-bottom: 1rem;
     
+}
+
+button {
+    background-color: #CC3366;
+    border-radius: 16px;
+    color: white;
+    font-size: .25rem;
+}
+
+button:hover {
+    background-color: #FF9933;
+    cursor: pointer;
+    color: #fff;
+}
+
+button:active {
+    background-color: red;
 }
 
 .blurb {
