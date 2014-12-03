@@ -63,7 +63,7 @@ img {
     }
 
 .colour3 {
-    background-color: #FF9933;
+    background-color: #CC3366;
     }
 .nav {
     list-style-type: none;
@@ -88,6 +88,10 @@ h1 {
     position: absolute;
     z-index: 2;
     
+}
+
+hr {
+    color: #CC3366;
 }
 
 .banner {
@@ -308,6 +312,11 @@ li {
     margin: .5em;
 }
 
+.copyright {
+    color: white;
+    font-size: 2rem;
+}
+
 @media only screen and (min-width:20em) {
     .icon {
         width: 10%;
@@ -329,7 +338,7 @@ li {
     }
  
     .header {
-         margin-top: 17%;
+         margin-top: 20%;
     }
     
     .grid {
