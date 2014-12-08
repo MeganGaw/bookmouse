@@ -316,7 +316,7 @@ li {
     font-size: 2rem;
 }
 
-@media only screen and (min-width:20em) {
+@media only screen and (min-width:25em) {
     .icon {
         width: 10%;
     }
