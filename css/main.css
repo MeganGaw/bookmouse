@@ -303,7 +303,7 @@ li {
 
 .icon {
     width: 20%;
-    float: right;
+    display: inline-block;
     margin-right:.5em;
 }
 
@@ -314,6 +314,10 @@ li {
 .copyright {
     color: white;
     font-size: 2rem;
+}
+
+.footer {
+    text-align: center;
 }
 
 @media only screen and (min-width:25em) {
@@ -352,6 +356,11 @@ li {
         visibility: hidden;
     }
     
+    .blurb {
+        font-size: 1rem;
+        color: #CC3366;
+    }
+    
         
 
 }
@@ -388,6 +397,13 @@ li {
     
     .small img {
         width: 100%;
+    }
+    
+    .icon {
+        float: right;
+    }
+    .blurb {
+        font-size: 3rem;
     }
 }
 
