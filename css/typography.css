@@ -35,8 +35,10 @@ h1, .exa {
 }
 
 h2, .peta {
-  font-size: 1.6018rem;
+  font-size: 2rem;
   line-height: 1.8729;
+  font-family: 'Lobster', cursive;
+  color: #CC3366
 }
 
 h3, .tera {
